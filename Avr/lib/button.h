@@ -1,7 +1,14 @@
+/*
+*         Title : Check button pressed
+*        Author : Anders S. Kortegaard
+*          Date : 17/01 - 2016
+*
+*   Description : function for checking if button is pressed
+*/
 
 #ifndef __button_h__
   #define __button_h__
-  
+
   /**
    *Check if button is pressed
    *
