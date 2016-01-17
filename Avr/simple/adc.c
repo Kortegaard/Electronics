@@ -8,7 +8,7 @@
 
 #include <avr/io.h>
 #include <util/delay.h>
-#include "../lib/adc.h"   //importing adc lib 
+#include "../lib/adc.h"   //importing adc lib
 
 int main(){
   //initializing adc
