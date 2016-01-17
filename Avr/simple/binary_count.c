@@ -1,3 +1,10 @@
+/*
+*         Title : Binary counter
+*        Author : Anders S. Kortegaard
+*          Date : 17/01 - 2016
+*
+*   Description : counting in binary, on port
+*/
 
 #include <avr/io.h>
 #include <util/delay.h>

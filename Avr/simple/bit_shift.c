@@ -1,3 +1,11 @@
+/*
+*         Title : Bit shift
+*        Author : Anders S. Kortegaard
+*          Date : 17/01 - 2016
+*
+*   Description : Shifting a bit back and forward, on PORTD
+*/
+
 
 #include <avr/io.h>
 #include <util/delay.h>

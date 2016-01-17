@@ -1,3 +1,10 @@
+/*
+*         Title : Button Press
+*        Author : Anders S. Kortegaard
+*          Date : 17/01 - 2016
+*
+*   Description : simple button presse
+*/
 
 #include <avr/io.h>
 #include <util/delay.h>

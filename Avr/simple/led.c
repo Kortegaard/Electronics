@@ -1,3 +1,10 @@
+/*
+*         Title : LED
+*        Author : Anders S. Kortegaard
+*          Date : 17/01 - 2016
+*
+*   Description : Setting a pin high (ex led)
+*/
 
 #include <avr/io.h>
 #include <util/delay.h>
