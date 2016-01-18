@@ -1,7 +1,7 @@
 /*
 *         Title : PWM
 *        Author : Anders S. Kortegaard
-*          Date : 17/01 - 2016
+*          Date : 18/01 - 2016
 *
 *   Description : PWM
 *       Credits : http://www.avrfreaks.net/forum/tut-c-newbies-guide-avr-pwm-incomplete?page=all

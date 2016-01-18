@@ -1,3 +1,13 @@
+/*
+*         Title : PWM
+*        Author : Anders S. Kortegaard
+*          Date : 18/01 - 2016
+*
+*   Description : PWM
+*       Credits : http://www.avrfreaks.net/forum/tut-c-newbies-guide-avr-pwm-incomplete?page=all
+*                 http://extremeelectronics.co.in/avr-tutorials/pwm-signal-generation-by-using-avr-timers-part-ii/
+*/
+
 #ifndef __pwm_h__
   #define __pwm_h__
   void pwm_init()
