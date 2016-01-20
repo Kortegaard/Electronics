@@ -3,7 +3,7 @@
 *        Author : Anders S. Kortegaard
 *          Date : 19/01 - 2016
 *
-*   Description : For controlling a shift register (74hc595) with the ATmega16/32
+*   Description : For uart serial communication with the ATmega16/32
 *
 *       credits : http://extremeelectronics.co.in/avr-tutorials/using-the-usart-of-avr-microcontrollers-reading-and-writing-data/
 *
