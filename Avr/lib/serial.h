@@ -21,8 +21,7 @@
   void serial_write_char(char data);
   void serial_write(char *arr);
 
-  void serial_init()
-  {
+  void serial_init(){
      //uint16_t ubrr_value = 51
      //Set Baud rate
      UBRRL = 51;
@@ -36,11 +35,8 @@
   }
 
 
-  //This function is used to read the available data
-  //from USART. This function will wait untill data is
-  //available.
-  char serial_read_char()
-  {
+  //Reading byte
+  char serial_read_char(){
      //Wait untill a data is available
      while(!(UCSRA & (1<<RXC))){}
      return UDR;
@@ -67,8 +63,7 @@
     }while(in != 0x0D);
   }
 
-  //This fuction writes the given "data" to
-  //the USART which then transmit it via TX line
+  //Write byte to
   void serial_write_char(char data)
   {
      //Wait untill the transmitter is ready
